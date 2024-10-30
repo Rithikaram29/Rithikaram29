@@ -7,3 +7,5 @@
 🌱 Always learning and eager to collaborate on projects that challenge and inspire me. Check out my repositories for projects showcasing my journey and skills in HTML, CSS, JavaScript, React, Node.js, and more!
 
 📫 Let’s connect! I’m open to feedback, collaboration, and learning opportunities.
+
+Connect via LinkedIn: https://www.linkedin.com/in/rithika-r-0b0526213/
